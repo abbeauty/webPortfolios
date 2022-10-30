@@ -22,8 +22,10 @@ p{
     margin-left: 5%;
     padding-left: 2%;
 }
-.half-width img{
-    width: 100%;
+.half-width img {
+    width: 42%;
+    height: 210px;
+    object-fit: contain;
 }
 .top-banner{
   
